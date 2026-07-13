@@ -7,6 +7,7 @@
 {"symbol":"AAVE-USD","interval":"1h","bucket":"2026-07-13T10:00:00.000Z","hash":"d811186aa730b948af03ecb722bd157114508ebf65949c384e2c12f840159724"}
 {"symbol":"AAVE-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"51fce81b9cd69cb05984bc18aefec1a1ca1fd2286b81ca33a99d566072764b56"}
 {"symbol":"AAVE-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"a4d32185d3526929422d92294ff3451896cd97291c416b7b10ca38b7b1f02328"}
+{"symbol":"AAVE-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"4147f3013fbb18572329648a5f5a47834d7f521218593e5afba75d250a821f98"}
 {"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"ef05c7d9e5dc9be46a40d43ddac3e76ca0d15a98e3e9e342a50dee0b38c68630"}
 {"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"3ded7227706702be7ba4531f6b8ac41dc1b575d7bd97506e7c3bc2b9084d4d66"}
 {"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T03:00:00.000Z","hash":"1bca99fa13bc6e945ddcdbaf7d7a6c2c381d29d4ea7f3d9bf6cc7dc35ceee66a"}
@@ -18,12 +19,14 @@
 {"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T10:00:00.000Z","hash":"ea899f202992c8afed6a779c5ccab45dd7ebaf45398f25c8b353574274ef1d11"}
 {"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"846209e67d124c9981591dc0d13ef702cc1d55abab8f0780a5cefdcb93e140fe"}
 {"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"ed60a1750ad87af6dc9ae5036465612814ef55a1621dd2d73f2f9622640f4e14"}
+{"symbol":"ADA-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"e33654071980aa0518eb58377760017f5afede76d20d514977f8cc17c538a62b"}
 {"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"618fe054e7ca1782ae28a383892cca99dddf800182862d31376516c3f04df63b"}
 {"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"493822dd3dc3392884c051d5663b768ce3755ef2b3097eda1cab24d1f7d8ec2e"}
 {"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"4e1eb7028a3ab92e5ea013eb83ff39ea55a1422691797eb94d389aab690dd4dd"}
 {"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T10:00:00.000Z","hash":"04fb96daf8932d8a2adfb659706a03a77150cd10e1670b0125733984cab13afe"}
 {"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"cddc776e0e94fef2a9477f3a910c6bce879eb2a22ef18b4b3237efd148fcbc7d"}
 {"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"ecc876681cac125bf1767acaea68a8466a1818d29e97c23b4be321a7ca5415d3"}
+{"symbol":"APT-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"773bb3ae426fcb98ae86438b4c7cc981456f9c09f6c76f97c081352c8a08a610"}
 {"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"427d26d1bccd67ae45c5d80a67a9961e363c2b5636798a032e70edf23a4500a5"}
 {"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"52115db28fd8b2b7c17fc3e64c56b42d894c4f74705028b09fe70a74ec3e8d11"}
 {"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"08f349654bc8833251426b6d055d352418b04b6291c740e9b3d2891283095a2c"}
@@ -36,6 +39,7 @@
 {"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"9d2998e0ce4a27601303008efb52365e4a059ca5efbe3f622bc33f1a80192580"}
 {"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"11c11a59e25f27c98396b5d99e15189e101204459d68ee602b99855d0ef41630"}
 {"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"7e82efbd5a258a6ae25889bcc1611b74755628562e4c7463b7f1fd7493ed28c3"}
+{"symbol":"ARB-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"0e0c543108df571d5a6c8897e4e37ff067648af84084b25e7cbffd49dcfcbf6b"}
 {"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"2ac9412e32f0555ad20805af2cf2863c04abbbe66aa04331f2d03e0ea17c68fd"}
 {"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"435f24f8b8606d52e49153e869445be897817b8b1eb2f6dacd3adc80e84c18cf"}
 {"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T08:00:00.000Z","hash":"f1d3ac14f9bd5a36b29494f1d59afd633f14172dada97e20ca4fb4777ef062fd"}
@@ -44,6 +48,7 @@
 {"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"b08f1cb98a26f5b366a28199c1b0007c96b26cbebc6f6d6e303faadd13b0d1d5"}
 {"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"507104c1576ef5e8cd3d803fa6730171f930880c4268ed240edb2b7bb78ac714"}
 {"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"d6e1a527236a7bea4cca929d811103fce3e083fc983399fbb4c324d19cb26a5b"}
+{"symbol":"ATOM-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"725fdeaf9e22f0eb68d353d38b101cdf272973b25cb7eb6b744c26f0ee7d635d"}
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"ee4ffbedd1e5a90686b2f98704060e7573132270a3c2fcc986d651f1655066bc"}
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"612c01ccaec3a4f346cba05ea0d540816d5d18c2d41a9d482ddc90adce088935"}
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"7902e8e69142ddd2ce3cacec79c32f1561b0539aaa79563f6b10a15956aec014"}
@@ -57,6 +62,7 @@
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"cbcff17a28ed0370a69b73f208cdd9ab15534e495e8a1534bd02400b892839c5"}
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"9da46c8b59085b066076d19d0f0aeb4787ea954cc78ab977fdce7264ceb72472"}
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"d02e3ab2ff92770aaf58c7b861ac6e94c98a1438b1e54446247324a564592255"}
+{"symbol":"AVAX-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"08b3265925621a8c494a573941f3dcd7d91da8cc5be355b5a82be4f8cb9d1f0d"}
 {"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"b771b4c0d3099efd809489d63ecdbd33b1528ebeca90c0e8f42a2903b8224097"}
 {"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"54497fb5ec957488e5ef5bd46c975cd0ed53debdfca0fb85a0485e59d1be7d49"}
 {"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"434b861c05d65a6ddf98d6febfc947da5942dbf1307e08836ff765241c2bca5b"}
@@ -70,6 +76,7 @@
 {"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"162578b2d2d5b1c45115450d39f34409b3da747d19029c9fcd946647babe90b4"}
 {"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"9abd3b5d46812d039b5964ffae73b1a9949bee5a8b6e3f1e543822957c1e36fa"}
 {"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"5713aa7f36f246205683d872387c77f8fc1248e2014fdad88374d487b033a0df"}
+{"symbol":"BNB-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"6d114ba055348ad6442bb6dd0d8e4d27d2a18a12fc499ba2e3bb0467e2ef9eee"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"435dc81f9a4bddba2aa3b15ba95e1f060439b0d6d985a186bcf6d5f09681da92"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"a1fd4f0e4b580d61da4b353c59a7777cb2b01995a94082f0467774572637196d"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"81dc6f09faa1b7029f88b8ed4f5945450bdbcf844f124166e687beb6670e32bd"}
@@ -84,6 +91,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"d7a49da1fb200e937ee682505085a879d3dfa07c19ea4c3d0f2e4ab9215ed7e4"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"7695d234edf8039de5531f8318778e7e409bdbe701c372b6062b54ab69b8fdc2"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"06122dfc547737728afc65e7aef76780bb37ac2288a6a95e469142b779a70e7f"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"3263b1aa6354549912e7fab60f5869bcd7686fbf6cb692107dc2625ef16209c8"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"2cbe9cc74466efb7744c4fb1fa734d03cfa18713caf498bcc8f5f5b4eaf26235"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"dd350d77e0b4b8651305ee4817960da509315deba689fdb3ad22f46bc2a287cb"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T03:00:00.000Z","hash":"0f79297b72e7cdc4fe7cd5b17ce4c594b1f7f7b95e94a0498a46dfe1896f403c"}
@@ -96,6 +104,7 @@
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"530dcbc9bc3d33234797d05a46ad88c61904e82842c13851aff10342f1cfc9fa"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"fcf2c515510e3b7132c8342179d6f25b9560f46e4f75e2059bd31d056906a830"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"4a1a1faa3f05b01ce229f40046d5eba622bc2e8f94323181f3a891aac533b44a"}
+{"symbol":"DOGE-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"b2afcb8f5dc4828f2dc14b785830e9c0beec9a19fc400d6c422b682881e4519a"}
 {"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"8e7ded465bdeca8340fffc7af37bcfa75fc0bca4082f6a401984f6142cc638ec"}
 {"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"066dcc6457435441f6f3e08169c17973bf096f3d65ced1477b2c32df68066ba0"}
 {"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"505e18d04c38ccbb83bba3fbbf2be9ac3333bfeefac4103e0d0f3ec9558e80fb"}
@@ -108,6 +117,7 @@
 {"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"24f1ad13926ec88ebdcac789fc5cf15d7e424f9b657c29de1527dd116910242f"}
 {"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"1ccefd1c4cbe087c9f5fce61dc735c07f6ef8538615946e7a4c4ec33516dcd84"}
 {"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"4f8ac0e7b182a43cacc2e847d391c19231a1290500c908f58115d46615933646"}
+{"symbol":"DOT-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"59fd4295e89ebe6d1a4c05a62b2de95a49f4522de30cb9bc81b83be74ac76b3d"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"effcdeae8699a6491b79c46c9e7abebabc0964063a121ec5ab7c4e7588c336a8"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"8fc3b4d2e24e2fd29fdb414c48c5f2b1b1c66f21af008794262f1392b8d3abb4"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"8e8eb8058e27312ab08b44c08fbf993e96ccb1f8851f40bbe6ac40e2086de161"}
@@ -122,15 +132,18 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"49e1bebffbf8a252e586c42ac65e59d960864cf09275a5077d380d07162cac81"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"f11bc1e510e780ad3c83da69256107d58a0c2ff4a610bc8d674aa04f33fd8195"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"e7a437cf07e84634f9f9a1fd8b0e4701379e4281fb39cea7e2e23f4f59803e1a"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"5c097f537c88403d5251901f8e0ca8d2acd1a355ac25fa1af338288e6b2abbd5"}
 {"symbol":"FIL-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"e820e81c0ab118180886fdb2001a3629c4138bfb21c624df53b0e0821ebf88f2"}
 {"symbol":"FIL-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"dd5a5b62dc47060492b612538c894d3cee04d4d04f709cc75a97f0a46ff5fbfa"}
 {"symbol":"FIL-USD","interval":"1h","bucket":"2026-07-13T10:00:00.000Z","hash":"1ff3e755999314b9de8628bcdaed91fb3dbec85da47ea199a8a01c47c4261f64"}
 {"symbol":"FIL-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"3d571a2a3510437b248ded9e013c3c33cf1b8580961acc68ded40e202a8484ee"}
+{"symbol":"FIL-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"5902ba763762c30b14fd5aaef9a52cf956560a99ecc4a54689817205bd85fa1c"}
 {"symbol":"HBAR-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"ec6e180f0dd6872455e4b04a7d2d2a816d337fdd6c27390728ee3a7ccd3716aa"}
 {"symbol":"IMX-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"b33c2e6ca0eb385b2b8d398e0ab1f89673b8bed3d4c2d2214d891e037c7016c8"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"3f7d01696d4a766fc18ec756636a78b172095e416c64469da60599aee2153c2a"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-07-13T10:00:00.000Z","hash":"eb5d0b41e79f52648c93198e52ba2552974904cdcdab463322935aabf2155feb"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"185c05f2515babbbc6da115c5e12ce14421a28f6d8d0ccbd8655100e6933549b"}
+{"symbol":"INJ-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"c5e7809adc54e3b31cf64bbb4db6685e2e8e3634995304b9c166973103277b84"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"5c7cc3bccefb88c387261525c73435164e5c8acd728acdbd689bd99c653f46dd"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"be607181f21751772eb7ba5b6cf9bc4a7f189ef8e4187d04996ba959d325cbf7"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"bbc34a27a6e10c93dddfcd32867f4a34355935979c5d35adced9566b0e076d34"}
@@ -145,6 +158,7 @@
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"367e6dac12729e0bb8d77c4c556e4fa9522b8c7deb7e38cb92fe5fc66de25aff"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"334466ab5867d5308cd57fc9ab80f1fe6263d003011d6d48d5de863eb0664637"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"7aa63a301b9be33e503c1a37483b398feb4d70b27f91760ef8939e18d7d49079"}
+{"symbol":"LINK-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"1e795a5903bb7cf0c6ea4bec8f9ac3abd9c490d13fb02058f303cc60303e454e"}
 {"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"db968c59007192690703a5bd355b37480ece236f2538869a63b83abdebe4e275"}
 {"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"a5fd4553f8cdf00026bb5a9b2297e85113ede894a6168cd177980a9d5f1e0db6"}
 {"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"5dea61b92d1c4fb313d266c78641454dadb1af228264f3008dd56166367b552e"}
@@ -157,6 +171,7 @@
 {"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"e08aed67f93ceb288de2c8b0b8a64f7c658e4ac25150a6562db285d43dc8a77e"}
 {"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"0a82af141856b96cd9cfe01ef023e5d567eb1c64b65837c6b919dd4141c8326d"}
 {"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"fb70c66e03742e89cb35e1a18cc32f5e5c74356cc161d7ec10742d5c49bb2d29"}
+{"symbol":"LTC-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"6ff22fba2e9ef14654424659a9c0cfef8da2aa54bc01b42d138e52e1ff9f9396"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"668c061cf28529bc1fb4029a2e262f08fd2833219e6390af0931b30e8626b51d"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"1313cee253be77e82cf9efda0d70ac6867d5be432351e6026b47474096758798"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"56d058b00493e230a625c871b634f16ea13afbed3d335901b23d6648553455a5"}
@@ -171,6 +186,7 @@
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"56f3e09d28bb9ab5075192dce41ae1c88f60f0810ea4e66787f6ece206d5e46c"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"573a51fd0c6d1349d336d90c689e9282c9ec4bacf206be89ba696860d16d1ca7"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"f3537345f042cefc29f09f8e3efe22b93ba68e31d1155036207c2e1762c1db3c"}
+{"symbol":"MATIC-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"73414432541e7bf7d501402d1fa05d837289055692eeba86a7c80a7aed280896"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"d0042466c6b45101c720857b49541aa26ba29fbd65ec3aa6930ae74c239f0b0e"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"978c19192ee915cda8d6ebad0fde3c3a639153d0d5b233dae8fdc4a178010153"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"726ab2216103d4ca108fec50339f382ec6e1d9caf5b1a3d7de8be0158ebb3f8c"}
@@ -185,6 +201,7 @@
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"c0975b45f6e2fc6f8548b9843b279a9d1b5a4296f6f7f74315a4421b8bded8f8"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"6d7e89cf1039eefedf3c616b3fff897ef098b49b373710c58b6657a5b4fba509"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"3e3821b0ccae179476c01e982bed4de77cd95ddfd0cbd6e261e3da32eb1c9a16"}
+{"symbol":"NEAR-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"96261ccc63fec1cefefc2f2ab0839d0714b779adac7b4b28e2caa94150950181"}
 {"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"491f0a6c6e2477b0f2b2ba464987c9998eaebd01dacfc18c43409faeca515975"}
 {"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"ee1b999e0606330e113978f26412ebaa7f596ccf660cf17457ad049c2999d255"}
 {"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T02:00:00.000Z","hash":"bfcb47d363a2b3299f0e8d3d9b64a73135fd6435ea71e8c56cc420335f43d2ac"}
@@ -197,8 +214,10 @@
 {"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"19dacc8d369cf1406c1563fbf001d08ff44e589529369dec2d692bf5de71705f"}
 {"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"f35aa16d3108aadc0d67ed6f727e4d0ca1a3cff5c8d1faa52d0789bd85be2dc5"}
 {"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"af3f756142460fc6f8f4b77d043d0905cfbe6c5a8a8834bfdd0effd846aa616b"}
+{"symbol":"OP-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"0459c79b9d4e1c4822eef5b3af2cf9e64c1ecb405de458f5e5a628ac70e4386b"}
 {"symbol":"RNDR-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"0ed763f916cc55f4a9f5cded0f9ed34fa3650d62a300a77e4db98ae01e550590"}
 {"symbol":"RNDR-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"730425f2cc7821d9c287a80c1d60acde610f3bcb8698095720320996059c94e4"}
+{"symbol":"RNDR-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"dd62faa2c37db3452104de58070849dcdfc53abfc67e1a2138ae03a82d12743b"}
 {"symbol":"SEI-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"35ea97d2543253a9b796a16e54989b9e14800a8171af3577b9c2f7440f3e3eb2"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"d3fa4e92150e6349b98322989a271dc0f447a72a7e7f9243fb8f9e1174ab539b"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"6608e21acf339385fef044128c0f9c206f376ad92ba6e966b8939240fb51121a"}
@@ -218,10 +237,12 @@
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"e6e5fbc304fb3c5bce8551659da09db2ad81f5c5aca35579a1aa8c430edbbe55"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"3f147c815410873c68d8d8b04f25007b79ed6d0fa46686cc5880989763a735ed"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"0d35484fca118756005881ef49f83747b0723e19b2273d2ee461c5a3493bbe98"}
+{"symbol":"SOL-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"103d391544a77b4da51507d31c36cbc13779229e2e48d22ef4be07681c68f55b"}
 {"symbol":"SUI-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"faa45d31aed400f24b85919dc9b9f923f1498ac2652e77d208468cb3b8898ea0"}
 {"symbol":"SUI-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"dce8ee2cf0e736054c930f8adf48f9c0c7ba5d7eabc7e20523f4aacf68a6e13b"}
 {"symbol":"SUI-USD","interval":"1h","bucket":"2026-07-13T10:00:00.000Z","hash":"2a4810cffc6f87d4d9e63e08a33f0c49b03b2d413a4765c258496c4ce6ed66f9"}
 {"symbol":"SUI-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"e25b3c8bb331b66c5ab5731ffb5a5dd51c4979682cbf944319284b4bf91e52f9"}
+{"symbol":"SUI-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"ad118bbedbd38b7d760c9dc56ed17365010dde477d2bc0f5d07363a9695ce35c"}
 {"symbol":"TON-USD","interval":"1h","bucket":"2026-07-13T07:00:00.000Z","hash":"5e81bd8aafe47f28c8054320a32cefb70e66f20d3611c7444dc01cc2a337bc98"}
 {"symbol":"TON-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"d78901e4f0af77855011aba26735bc56fe34c94dfb2aa9e47e97f679f3650444"}
 {"symbol":"TRX-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"6605eef7ab06825274840a3e05e525b988fcd9f9b4b4e4b759767d54d9681ec6"}
@@ -243,6 +264,7 @@
 {"symbol":"UNI-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"a4ba8427a097617535b4dd95a46ae385b80029fa33729ec1638fa40291df3389"}
 {"symbol":"UNI-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"814d1ca4e4afaf809a6a16b3e3f213834196258cc2c69c2b782d4f7bd7376d66"}
 {"symbol":"UNI-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"065edf14e14fcc0ac05ff783e1059450990c56a38c1ba2aaf092d8ee1bbff3aa"}
+{"symbol":"UNI-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"301ebc1b6853eb5e97a04e9dcdb265e9b401e86142b7e94b8447e8831f077545"}
 {"symbol":"XLM-USD","interval":"1h","bucket":"2026-07-13T00:00:00.000Z","hash":"350bb684c4223563c54d466ed116a5e01393bbf7b35b855caa32a8fca8bf5fe7"}
 {"symbol":"XLM-USD","interval":"1h","bucket":"2026-07-13T01:00:00.000Z","hash":"195e528496da6cf8915785e5bf25298dfa099e0aa67d3917256eb2756c6c7986"}
 {"symbol":"XLM-USD","interval":"1h","bucket":"2026-07-13T09:00:00.000Z","hash":"2bbbf4f3232c1b57da5fb3a868ee827fcaa26231c5ef4495c629b971642d4fa0"}
@@ -261,3 +283,4 @@
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-07-13T11:00:00.000Z","hash":"c18b56db2e1073bea21836db50e6687c5d6acf66d07af3d7d2ab3ba15d96fe8d"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-07-13T12:00:00.000Z","hash":"a794ce84936f63b3475b7d648e1f974dde251026b1c42e70fd801aaadb2654f4"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-07-13T13:00:00.000Z","hash":"bbc691e1f9a0141e5e99bff63b07578df4584d534dd9f9dff58632faa06103a3"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-07-13T14:00:00.000Z","hash":"9f2982db982f2735cddc19c8b2b86cd99ad90983d95fa49c6931461718a81457"}
