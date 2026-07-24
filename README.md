@@ -61,8 +61,13 @@ served bucket and committed the new hashes. Both sets of lines remain in the
 log, because lines are never removed. The API's current values recompute to the
 05:28 hashes; the 05:01 lines are superseded. This is the log doing its job: a
 re-publish leaves permanent, timestamped evidence. `verify.mjs` reports
-superseded lines separately from mismatches. This is the only re-published
-bucket to date.
+superseded lines separately from mismatches.
+
+**2026-07-18T11:00Z was published twice for the same reason.** A dispatcher outage
+that day ended with a catch-up run re-scoring the hour; the re-scored values
+differed on 6 of the bucket's symbols, and those earlier lines are superseded.
+Both re-publishes are ordinary log events, not corrections to history: the
+superseded lines stay in the files forever.
 
 ## Known caveat: lines before 2026-07-05T12:00Z
 
