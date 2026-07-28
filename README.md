@@ -32,8 +32,12 @@ One command. No dependencies. Node 18 or newer, plus a free API key from
 ```bash
 git clone https://github.com/auriontech/shingou-signal-log.git
 cd shingou-signal-log
-node verify.mjs --key YOUR_API_KEY --day 2026-07-10
+node verify.mjs --key YOUR_API_KEY --day 2026-07-26
 ```
+
+Pick a `--day` that is inside the last 7 days and more than a day old. A free
+key sees 7 days of history, so an older date verifies nothing, and the most
+recent 24 hours of non-major symbols are still inside their delay.
 
 The script fetches each bucket from the live API, recomputes the hash, and
 compares it to the committed line. It paces itself to fit the free plan's rate
