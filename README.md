@@ -32,17 +32,19 @@ One command. No dependencies. Node 18 or newer, plus a free API key from
 ```bash
 git clone https://github.com/auriontech/shingou-signal-log.git
 cd shingou-signal-log
-node verify.mjs --key YOUR_API_KEY --day 2026-07-26
+node verify.mjs --key YOUR_API_KEY
 ```
-
-Pick a `--day` that is inside the last 7 days and more than a day old. A free
-key sees 7 days of history, so an older date verifies nothing, and the most
-recent 24 hours of non-major symbols are still inside their delay.
 
 The script fetches each bucket from the live API, recomputes the hash, and
 compares it to the committed line. It paces itself to fit the free plan's rate
-limit. Free keys see 7 days of history, and non-major symbols are served with
-a 24h delay. Buckets outside those windows are reported as skipped, not failed.
+limit.
+
+Two plan limits shape which day is worth reading. A free key sees 7 days of
+history, and non-major symbols are served with a 24h delay, so buckets outside
+those windows are reported as skipped rather than failed. The script picks a day
+that clears both by default. Pass `--day 2026-07-27` to choose one yourself, and
+note that a day which verifies nothing exits non-zero instead of looking like a
+pass.
 
 ## What this proves
 

@@ -5,9 +5,10 @@
 // GET /v1/history/sentiment, rebuilds the canonical string, and checks that
 // its sha256 equals the committed hash. No dependencies. Node 18 or newer.
 //
-//   node verify.mjs --key YOUR_API_KEY [--day 2026-07-10] [--api https://api.shingou.io]
+//   node verify.mjs --key YOUR_API_KEY [--day 2026-07-27] [--api https://api.shingou.io]
 //
-// A free key works. Two plan limits apply and are reported as SKIPPED, not
+// A free key works. Without --day it picks the newest day a free key can
+// fully verify. Two plan limits apply and are reported as SKIPPED, not
 // failures: free history covers 7 days, and symbols outside the free live
 // set are served 24h delayed. Lines with buckets before 2026-07-05T12:00Z
 // do not recompute because of a disclosed precision bug (see README).
@@ -25,7 +26,26 @@ if (!KEY) {
   process.exit(2);
 }
 const days = readdirSync("log").map((f) => f.replace(".jsonl", "")).sort();
-const day = args.day ?? days[days.length - 1];
+
+// Default to the newest day a free key can fully verify, rather than to the
+// newest file. The newest file is today's partial day, where most lines are
+// still inside the 24h delay on non-major symbols, so it verifies almost
+// nothing. A day qualifies when it starts inside the 7-day history window and
+// ended more than 24h ago.
+const DAY_MS = 86_400_000;
+const startOf = (d) => Date.parse(`${d}T00:00:00Z`);
+const endOf = (d) => Date.parse(`${d}T23:59:59Z`);
+const now = Date.now();
+const verifiable = days.filter((d) => now - startOf(d) < 7 * DAY_MS && now - endOf(d) > DAY_MS);
+
+const day = args.day ?? verifiable[verifiable.length - 1];
+if (!day) {
+  console.error(
+    "No day in log/ is both inside a free key's 7-day window and older than 24h.\n" +
+      `Available: ${days[0]} to ${days[days.length - 1]}. Pass --day to pick one anyway.`,
+  );
+  process.exit(2);
+}
 if (!days.includes(day)) {
   console.error(`No log file for ${day}. Available: ${days[0]} to ${days[days.length - 1]}`);
   process.exit(2);
@@ -92,4 +112,12 @@ console.log(`OK: ${counts.OK}  superseded (re-published bucket, see README): ${c
 console.log(`skipped (outside your plan's window or delay): ${counts.SKIPPED}  pre-fix lines (disclosed caveat): ${counts.PRE_FIX}`);
 console.log(`MISMATCH: ${counts.MISMATCH}`);
 for (const m of mismatches) console.log(JSON.stringify(m));
+
+// Verifying nothing is not a pass. Every line skipped means the chosen day sits
+// outside this key's plan window, and reporting that as success is how the old
+// hardcoded default hid the fact that it proved nothing.
+if (counts.OK === 0 && counts.MISMATCH === 0) {
+  console.error(`\nVerified 0 buckets: every line was skipped or pre-fix. Try a different --day.`);
+  process.exit(2);
+}
 process.exit(counts.MISMATCH > 0 ? 1 : 0);
