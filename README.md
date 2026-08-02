@@ -30,7 +30,7 @@ One command. No dependencies. Node 18 or newer, plus a free API key from
 [shingou.io](https://shingou.io):
 
 ```bash
-git clone https://github.com/auriontech/shingou-signal-log.git
+git clone https://github.com/shingou-io/shingou-signal-log.git
 cd shingou-signal-log
 node verify.mjs --key YOUR_API_KEY
 ```
@@ -82,8 +82,7 @@ engine's full-float64 values, but the database columns store 32-bit floats. For
 most of those buckets the served value lost precision and **the committed hash
 does not recompute from API reads**. This was a precision bug in hash
 construction, not a rewrite: the commit timestamps still prove *when* each
-bucket was published. Fixed in engine commit
-[`403950d`](https://github.com/auriontech/shingou/commit/403950d) (signal fields
+bucket was published. Fixed in engine commit `403950d` (signal fields
 are now rounded to a float4-safe 6 decimals before storing and hashing). Every
 line from bucket `2026-07-05T12:00:00.000Z` onward recomputes exactly. The
 pre-fix lines are left in place unaltered. This log is append-only.
