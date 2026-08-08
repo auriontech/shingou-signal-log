@@ -8,3 +8,4 @@
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-08-08T01:00:00.000Z","hash":"cbc7b466aa823633ed68a04fdf75ed4778bdff4d3a7bf3220f61602ffc8c27ce"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-08-08T01:00:00.000Z","hash":"19c3fc0df4d1cbcd6aea5ab4d5e47ffcd1c7f094889e6ed82a833fe83478452e"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-08-08T01:00:00.000Z","hash":"071b4a4ca67fb8435dd3aa3f6bf58e824e52e526d9f1395def073ffc42ad6c69"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-08-08T04:00:00.000Z","hash":"19cf34fc042e412a7b55c34eb1b7e4b599a5aedf2ee996df4e3cd54a5f5c812b"}
